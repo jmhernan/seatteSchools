@@ -1,1 +1,1 @@
-# seatteSchools
+# seattleSchools
